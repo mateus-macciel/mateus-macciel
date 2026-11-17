@@ -1,16 +1,22 @@
-## Hi there 👋
+# Mateus Maciel
 
-<!--
-**mateus-macciel/mateus-macciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Segurança da Informação | IAM | Blue Team | Python e Power BI · São Paulo, Brasil
 
-Here are some ideas to get you started:
+Trabalho com gestão de identidades e acessos, automação em Python e dashboards em Power BI. Aqui publico alguns projetos de estudo com dados sintéticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+- [IAM Access Review Automation](https://github.com/mateus-macciel/iam-access-review): 10 regras de
+  detecção de risco em acessos (contas órfãs, conflitos de SoD, privilégios excessivos), relatório em
+  Excel e dashboard em Power BI.
+- [Phishing Campaign Simulator](https://github.com/mateus-macciel/phishing-campaign-simulator):
+  simulação de campanha de conscientização em 3 ondas, modelos de e-mail de treinamento e tabelas
+  para dashboard.
+
+## Tecnologias
+
+Python · pandas · SQL · Power BI · Git e GitHub Actions · Active Directory · Linux
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/mateusmacciel)
