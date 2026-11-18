@@ -25,18 +25,6 @@ Trabalho com gestão de identidades e acessos e gosto de transformar rotina de s
 | 🔑 **[IAM Access Review Automation](https://github.com/mateus-macciel/iam-access-review)** | 10 regras de risco em acessos (contas órfãs, conflitos de SoD, privilégios excessivos), relatório em Excel e dashboard. | `Python` `pandas` `Excel` `Power BI` |
 | 🎣 **[Phishing Campaign Simulator](https://github.com/mateus-macciel/phishing-campaign-simulator)** | Simulação de campanha de conscientização em 3 ondas, modelos de e-mail de treinamento e tabelas para dashboard. | `Python` `HTML` `Power BI` |
 
-## Como eu trabalho
-
-- **Teste e reprodutibilidade:** os projetos têm testes automatizados e CI no GitHub Actions.
-- **Medir antes de afirmar:** regras de detecção são avaliadas com precisão, recall e falsos positivos.
-- **Dado seguro:** conjuntos sintéticos, com IPs de documentação (RFC 5737) e domínios fictícios.
-
-## Em foco agora
-
-- Detecção como código e threat hunting em SQL
-- Certificações gratuitas da Fortinet e trilhas de Blue Team
-- ADS no Mackenzie (2026–2028)
-
 ## Contato
 
 Quer trocar ideia sobre segurança, IAM ou dados? Me chama no [LinkedIn](https://www.linkedin.com/in/mateusmacciel/).
