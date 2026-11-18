@@ -19,9 +19,9 @@ Trabalho com gestão de identidades e acessos e gosto de transformar rotina de s
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| 🛡️ **[SOC Detection Lab](https://github.com/mateus-macciel/soc-detection-lab)** | 6 regras de detecção mapeadas no MITRE ATT&CK, em Python e SQL, avaliadas contra 30 ataques simulados. O ajuste cortou 92,5% dos falsos positivos sem perder nenhum ataque. | `Python` `SQL` `ATT&CK` `Power BI` |
-| 🔑 **[IAM Access Review Automation](https://github.com/mateus-macciel/iam-access-review)** | 10 regras de risco em acessos (contas órfãs, conflitos de SoD, privilégios excessivos), relatório em Excel e dashboard. | `Python` `pandas` `Excel` `Power BI` |
-| 🎣 **[Phishing Campaign Simulator](https://github.com/mateus-macciel/phishing-campaign-simulator)** | Simulação de campanha de conscientização em 3 ondas, modelos de e-mail de treinamento e tabelas para dashboard. | `Python` `HTML` `Power BI` |
+|**[SOC Detection Lab](https://github.com/mateus-macciel/soc-detection-lab)** | 6 regras de detecção mapeadas no MITRE ATT&CK, em Python e SQL, avaliadas contra 30 ataques simulados. O ajuste cortou 92,5% dos falsos positivos sem perder nenhum ataque. | `Python` `SQL` `ATT&CK` `Power BI` |
+|**[IAM Access Review Automation](https://github.com/mateus-macciel/iam-access-review)** | 10 regras de risco em acessos (contas órfãs, conflitos de SoD, privilégios excessivos), relatório em Excel e dashboard. | `Python` `pandas` `Excel` `Power BI` |
+|**[Phishing Campaign Simulator](https://github.com/mateus-macciel/phishing-campaign-simulator)** | Simulação de campanha de conscientização em 3 ondas, modelos de e-mail de treinamento e tabelas para dashboard. | `Python` `HTML` `Power BI` |
 
 ## Contato
 
