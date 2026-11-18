@@ -6,8 +6,6 @@
 Automação em Python · Dashboards em Power BI · São Paulo, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mateusmacciel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusmacciel/)
-![Fortinet NSE 1](https://img.shields.io/badge/Fortinet-NSE%201-EE3124)
-![Inglês](https://img.shields.io/badge/Inglês-C1%20(EF%20SET)-2ea44f)
 
 <img src="https://skillicons.dev/icons?i=github" alt="Tecnologias" />
 
